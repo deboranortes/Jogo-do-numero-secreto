@@ -11,7 +11,8 @@
 O Jogo do Número Secreto é uma página web interativa onde o jogador tem que adivinhar um número entre 1 e 5000. O jogo utiliza alertas na tela para interagir com o jogador. Toda vez que o jogador erra, aparece uma mensagem informando que ele errou e dá uma pista se o número digitado é maior ou menor que o número secreto. Quando o jogador acerta, aparece uma mensagem de acerto e uma imagem com a frase: "Você acertou! Você descobriu o número secreto".
 
 ## Acesso
-Você pode acessar o Jogo do Número Secreto através do seguinte link: https://jogo-nine-xi.vercel.app/
+[![Jogue Agora](https://img.shields.io/badge/Acesse%20o%20Jogo%20do%20Número%20Secreto-Agora-9cf)](https://deboranortes.github.io/Jogo-do-numero-secreto/)
+
 
 ## Uso
 Para jogar, basta acessar o link acima e seguir as instruções na tela. O jogo irá te guiar através dos alertas.
